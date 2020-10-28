@@ -5,12 +5,12 @@ You can convert any Telegram Document, using this bot! With custom thumbnail
      
     """
     ABS_TEXT = " Please don't be selfish."
-    BANNED_USER_TEXT = "you are banned"
+    BANNED_USER_TEXT = "You are banned, Chal Nikal lawde"
     UPGRADE_TEXT = "No upgrade plan 🥰"
-    DOWNLOAD_START = "trying to download"
-    UPLOAD_START = "trying to upload"
+    DOWNLOAD_START = "Trying to download...."
+    UPLOAD_START = "Trying to upload...."
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "https://t.me/fileConvertRobot"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "https://t.me/p_ytestingbot"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nPlease rate me if you find me useful. https://t.me/tlgrmcbot?start=anydl_bot-bot \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in next 24 hr"
@@ -22,7 +22,7 @@ You can convert any Telegram Document, using this bot! With custom thumbnail
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: <a href='https://t.me/InFoTelGroup/174'>{}</a>
+Plan name: """No Plans 🔥🥰✅"""
 Expires on: {}"""
     HELP_USER = """I can do:
 👉 <a href="https://telegram.dog/FileConvertRobot">Convert To Streamable video any telegram file</a>
