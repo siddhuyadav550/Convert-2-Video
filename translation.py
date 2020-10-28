@@ -22,7 +22,7 @@ You can convert any Telegram Document, using this bot! With custom thumbnail
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: "No Plans 🔥🥰✅"
+Plan name: No Plans 🔥🥰✅
 Expires on: {}"""
     HELP_USER = """I can do:
 👉 <a href="https://telegram.dog/FileConvertRobot">Convert To Streamable video any telegram file</a>
