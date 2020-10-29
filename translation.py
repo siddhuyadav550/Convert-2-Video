@@ -10,7 +10,7 @@ You can convert any Telegram Document, using this bot! With custom thumbnail
     DOWNLOAD_START = "Trying to download...."
     UPLOAD_START = "Trying to upload...."
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "https://t.me/p_ytestingbot"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "http://t.me/File_to_video_bot"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nPlease rate me if you find me useful. https://t.me/tlgrmcbot?start=anydl_bot-bot \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in next 24 hr"
